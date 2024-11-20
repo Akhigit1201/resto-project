@@ -1,0 +1,64 @@
+{
+  "user": [
+    {
+      "name": "Akhila",
+      "email": "akhila@test",
+      "password": "akhila@123",
+      "id": "ef7d"
+    },
+    {
+      "id": "3b45",
+      "name": "Akhila",
+      "email": "akhila@test",
+      "password": "akhila@123"
+    },
+    {
+      "name": "Robert",
+      "email": "robert@test",
+      "password": "Robert@123",
+      "id": "42cd"
+    },
+    {
+      "id": "e14c",
+      "name": "Captain",
+      "email": "captain@test",
+      "password": "Captain@123"
+    },
+    {
+      "id": "9051",
+      "email": "akhila@web",
+      "password": "Akhila@123",
+      "name": "Akhila"
+    },
+    {
+      "id": "5013",
+      "email": "bruce@test.com",
+      "password": "Bruce@123",
+      "name": "Bruce"
+    },
+    {
+      "id": "c16a",
+      "email": "akhila@test.com",
+      "password": "Akhi@123",
+      "name": "akhila"
+    },
+    {
+      "id": "a32e",
+      "email": "sam@test",
+      "password": "Sam",
+      "name": "sam"
+    },
+    {
+      "id": "8a2c",
+      "email": "abc@test",
+      "password": "abc",
+      "name": "abc"
+    },
+    {
+      "id": "870f",
+      "email": "akhila@test.com",
+      "password": "Akhilaakhi12",
+      "name": "Akhila"
+    }
+  ]
+}
